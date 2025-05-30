@@ -1,0 +1,1418 @@
+{
+	"POST": [
+		{
+			"status": 201,
+			"response": {
+				"ticketId": "5c24dd82-1989-4d60-9e88-dd2aa21a3b33"
+			}
+		}
+	],
+	"GET": [
+		{
+			"status": 201,
+			"response": {
+				"ticketId": "49CE6ADZCGW",
+				"type": "SINGLE",
+				"accountId": "3ADJQ6G73H9",
+				"currency": "COP",
+				"acceptPriceChanges": true,
+				"selections": [
+					[
+						{
+							"outcomeId": "4339549b-e05f-4288-9089-cd74db5ea96c",
+							"fixtureId": "04b06a6e-a225-419e-8d8a-e1d83ea3471f",
+							"status": "ACTIVE",
+							"receivedPrice": "2.15",
+							"price": "2.3",
+							"probability": "0.3873078625",
+							"inPlay": true
+						}
+					]
+				],
+				"bets": [
+					{
+						"id": "3ACW6ADU3ZE",
+						"outcomeIds": ["4339549b-e05f-4288-9089-cd74db5ea96c"],
+						"receivedPrice": {
+							"base": "2.15",
+							"bonusPercentage": "0",
+							"total": "2.15"
+						},
+						"price": {
+							"base": "2.3",
+							"bonusPercentage": "0",
+							"total": "2.3"
+						},
+						"stake": "100000",
+						"potentialPayout": {
+							"base": "230000",
+							"bonus": "0",
+							"total": "230000"
+						},
+						"inPlay": true
+					}
+				],
+				"betGroups": [
+					{
+						"numSelections": 1,
+						"numBets": 1,
+						"price": {
+							"base": "2.3",
+							"bonusPercentage": "0",
+							"total": "2.3"
+						},
+						"stake": "100000",
+						"potentialPayout": {
+							"base": "230000",
+							"bonus": "0",
+							"total": "230000"
+						}
+					}
+				],
+				"status": "PLACED",
+				"deadline": "2025-04-15T04:16:16.717945627Z",
+				"receivedAt": "2025-04-15T04:15:56.723198618Z",
+				"validatedAt": "0001-01-01T00:00:00Z",
+				"acceptedAt": "0001-01-01T00:00:00Z"
+			}
+		},
+		{
+			"status": 201,
+			"response": {
+				"ticketId": "TCR9E9DJ9YJ",
+				"type": "COMBINATION",
+				"accountId": "QVTE5LDFDC1",
+				"currency": "GHS",
+				"acceptPriceChanges": false,
+				"selections": [
+					[
+						{
+							"outcomeId": "8189be70-eea3-4df3-976d-e40c9de1056f",
+							"receivedPrice": "1.6",
+							"price": "0"
+						}
+					],
+					[
+						{
+							"outcomeId": "168e004f-cc8a-4033-801b-472369999ac3",
+							"receivedPrice": "1.44",
+							"price": "0"
+						}
+					],
+					[
+						{
+							"outcomeId": "907e1cc0-2d36-48d3-bae5-48f9454365dd",
+							"receivedPrice": "1.77",
+							"price": "0"
+						}
+					],
+					[
+						{
+							"outcomeId": "317f63ca-1654-447d-a4ed-d77e8b9e352c",
+							"receivedPrice": "1.61",
+							"price": "0"
+						}
+					],
+					[
+						{
+							"outcomeId": "e3b474ec-0ecc-4e96-ad13-10e5c79697af",
+							"receivedPrice": "1.67",
+							"price": "0"
+						}
+					],
+					[
+						{
+							"outcomeId": "e083c8b7-4b64-48bd-a8f3-0e433d8a727b",
+							"receivedPrice": "1.66",
+							"price": "0"
+						}
+					],
+					[
+						{
+							"outcomeId": "754be5bd-4e22-48f3-9964-965062e126e0",
+							"receivedPrice": "1.3",
+							"price": "0"
+						}
+					],
+					[
+						{
+							"outcomeId": "d33d0b9e-95f4-4036-8124-3347af859df6",
+							"receivedPrice": "1.25",
+							"price": "0"
+						}
+					],
+					[
+						{
+							"outcomeId": "86ac926e-b318-430b-9409-71596864e172",
+							"receivedPrice": "1.65",
+							"price": "0"
+						}
+					],
+					[
+						{
+							"outcomeId": "224f0adc-b52b-4964-9b13-b12e6f355a14",
+							"receivedPrice": "1.59",
+							"price": "0"
+						}
+					],
+					[
+						{
+							"outcomeId": "8159f245-4a4a-4bc7-a1f1-36b2ed56e349",
+							"receivedPrice": "1.36",
+							"price": "0"
+						}
+					],
+					[
+						{
+							"outcomeId": "f94eaf67-6753-4d0d-9137-e862ed53c2cb",
+							"receivedPrice": "1.42",
+							"price": "0"
+						}
+					],
+					[
+						{
+							"outcomeId": "5739f890-2248-42c1-897c-bfc2547a58a7",
+							"receivedPrice": "1.27",
+							"price": "0"
+						}
+					],
+					[
+						{
+							"outcomeId": "e6658d73-f7cd-4252-9324-0e04b1730749",
+							"receivedPrice": "1.48",
+							"price": "0"
+						}
+					],
+					[
+						{
+							"outcomeId": "890e5785-2b34-4ec0-bc4b-3c992f8c1e44",
+							"receivedPrice": "1.38",
+							"price": "0"
+						}
+					],
+					[
+						{
+							"outcomeId": "70ec9b1d-a756-4f15-be6b-e81ed6764f6a",
+							"receivedPrice": "1.6",
+							"price": "0"
+						}
+					],
+					[
+						{
+							"outcomeId": "d5824735-73c5-4ed4-984c-4f2da8a0fc54",
+							"receivedPrice": "1.42",
+							"price": "0"
+						}
+					],
+					[
+						{
+							"outcomeId": "826151b7-1ef7-4630-adf8-2b5494ff4474",
+							"receivedPrice": "1.42",
+							"price": "0"
+						}
+					],
+					[
+						{
+							"outcomeId": "acc60e7a-c79d-4fcc-b4d8-fecede139e3d",
+							"receivedPrice": "1.38",
+							"price": "0"
+						}
+					],
+					[
+						{
+							"outcomeId": "e7c37603-735b-47da-9f37-220b4b1fa321",
+							"receivedPrice": "1.55",
+							"price": "0"
+						}
+					]
+				],
+				"bets": [
+					{
+						"id": "AVR9ETDK3Z1",
+						"outcomeIds": [
+							"826151b7-1ef7-4630-adf8-2b5494ff4474",
+							"d5824735-73c5-4ed4-984c-4f2da8a0fc54",
+							"d33d0b9e-95f4-4036-8124-3347af859df6",
+							"e7c37603-735b-47da-9f37-220b4b1fa321",
+							"224f0adc-b52b-4964-9b13-b12e6f355a14",
+							"acc60e7a-c79d-4fcc-b4d8-fecede139e3d",
+							"70ec9b1d-a756-4f15-be6b-e81ed6764f6a",
+							"8159f245-4a4a-4bc7-a1f1-36b2ed56e349",
+							"e083c8b7-4b64-48bd-a8f3-0e433d8a727b",
+							"907e1cc0-2d36-48d3-bae5-48f9454365dd",
+							"168e004f-cc8a-4033-801b-472369999ac3",
+							"8189be70-eea3-4df3-976d-e40c9de1056f",
+							"e6658d73-f7cd-4252-9324-0e04b1730749",
+							"5739f890-2248-42c1-897c-bfc2547a58a7",
+							"f94eaf67-6753-4d0d-9137-e862ed53c2cb",
+							"86ac926e-b318-430b-9409-71596864e172",
+							"754be5bd-4e22-48f3-9964-965062e126e0",
+							"e3b474ec-0ecc-4e96-ad13-10e5c79697af",
+							"317f63ca-1654-447d-a4ed-d77e8b9e352c",
+							"890e5785-2b34-4ec0-bc4b-3c992f8c1e44"
+						],
+						"receivedPrice": {
+							"base": "2682.3771549985",
+							"bonusPercentage": "0.67",
+							"total": "4478.8998488476"
+						},
+						"price": {
+							"base": "0",
+							"bonusPercentage": "0",
+							"total": "0"
+						},
+						"stake": "1",
+						"potentialPayout": {
+							"base": "2682.38",
+							"bonus": "1796.52",
+							"total": "4478.9"
+						}
+					}
+				],
+				"betGroups": [
+					{
+						"numSelections": 20,
+						"numBets": 1,
+						"price": {
+							"base": "2682.38",
+							"bonusPercentage": "0",
+							"total": "4478.9"
+						},
+						"stake": "1",
+						"potentialPayout": {
+							"base": "2682.38",
+							"bonus": "1796.52",
+							"total": "4478.9"
+						}
+					}
+				],
+				"status": "PLACED",
+				"deadline": "2025-04-14T20:18:10.096108191Z",
+				"receivedAt": "2025-04-14T20:17:57.601595134Z",
+				"validatedAt": "0001-01-01T00:00:00Z",
+				"acceptedAt": "0001-01-01T00:00:00Z"
+			}
+		},
+		{
+			"status": 201,
+			"response": {
+				"ticketId": "KVDRXRD11VE",
+				"type": "SYSTEM",
+				"accountId": "CARYXM342GW",
+				"currency": "BRL",
+				"acceptPriceChanges": false,
+				"selections": [
+					[
+						{
+							"outcomeId": "aaa42341-a02d-430e-bbdd-10d678a9f6c8",
+							"fixtureId": "1212a6a5-a900-4f41-b00d-a28827ed2926",
+							"status": "ACTIVE",
+							"receivedPrice": "2.6",
+							"price": "2.6",
+							"probability": "0.3382481117",
+							"inPlay": true
+						}
+					],
+					[
+						{
+							"outcomeId": "99304fc0-7c82-499b-a867-6f1d3d3277a5",
+							"fixtureId": "83033289-b238-49d3-9125-4a0d83e3b2b2",
+							"status": "ACTIVE",
+							"receivedPrice": "2.3",
+							"price": "2.3",
+							"probability": "0.3746380191",
+							"inPlay": true
+						}
+					],
+					[
+						{
+							"outcomeId": "4eafaf7a-5f26-4037-9885-08229586f199",
+							"fixtureId": "a570208f-a99b-4686-8969-af939dde6aab",
+							"status": "ACTIVE",
+							"receivedPrice": "1.75",
+							"price": "1.35",
+							"probability": "0.6937399943",
+							"inPlay": true
+						}
+					],
+					[
+						{
+							"outcomeId": "b83014dd-59a2-4b8c-8b1d-f3403eb7b52a",
+							"fixtureId": "b888e58d-4b74-4aae-94a7-39e0e334ebe4",
+							"status": "ACTIVE",
+							"receivedPrice": "2.15",
+							"price": "2.15",
+							"probability": "0.41276",
+							"inPlay": true
+						}
+					],
+					[
+						{
+							"outcomeId": "63f726cc-b0e9-4185-90fe-dfc2fb3455f7",
+							"fixtureId": "b2396475-4321-4280-85d8-52e28a4f430e",
+							"status": "ACTIVE",
+							"receivedPrice": "2.05",
+							"price": "2.05",
+							"probability": "0.4342",
+							"inPlay": true
+						}
+					],
+					[
+						{
+							"outcomeId": "882534a0-ad69-4757-9a4b-fe5cb6965197",
+							"fixtureId": "f52f66b3-51e7-4390-8634-06103b204b19",
+							"status": "ACTIVE",
+							"receivedPrice": "2.55",
+							"price": "2.55",
+							"probability": "0.33628",
+							"inPlay": true
+						}
+					],
+					[
+						{
+							"outcomeId": "6ba42d65-51dd-42a2-a825-bf56f1c39544",
+							"fixtureId": "4b196e86-5fcc-4245-aca8-0cd06287f13e",
+							"status": "ACTIVE",
+							"receivedPrice": "1.6",
+							"price": "1.6",
+							"probability": "0.56336",
+							"inPlay": true
+						}
+					]
+				],
+				"betGroups": [
+					{
+						"numSelections": 3,
+						"numBets": 35,
+						"price": {
+							"base": "8.8757142857",
+							"bonusPercentage": "0.06",
+							"total": "8.8932653061"
+						},
+						"stake": "2.8",
+						"potentialPayout": {
+							"base": "869.82",
+							"bonus": "840.07",
+							"total": "871.54"
+						}
+					}
+				],
+				"status": "PLACED",
+				"deadline": "2025-04-08T09:55:43.32494679Z",
+				"receivedAt": "2025-04-08T09:55:23.334040812Z",
+				"validatedAt": "0001-01-01T00:00:00Z",
+				"acceptedAt": "0001-01-01T00:00:00Z",
+				"bets": [
+					{
+						"id": "1CARZTC63UW",
+						"outcomeIds": [
+							"aaa42341-a02d-430e-bbdd-10d678a9f6c8",
+							"63f726cc-b0e9-4185-90fe-dfc2fb3455f7",
+							"b83014dd-59a2-4b8c-8b1d-f3403eb7b52a"
+						],
+						"receivedPrice": {
+							"base": "11.4595",
+							"bonusPercentage": "0.06",
+							"total": "12.08707"
+						},
+						"price": {
+							"base": "11.4595",
+							"bonusPercentage": "0.06",
+							"total": "12.08707"
+						},
+						"stake": "2.8",
+						"potentialPayout": {
+							"base": "32.09",
+							"bonus": "1.75",
+							"total": "33.84"
+						},
+						"inPlay": true
+					},
+					{
+						"id": "JCDRXRD63UW",
+						"outcomeIds": [
+							"6ba42d65-51dd-42a2-a825-bf56f1c39544",
+							"63f726cc-b0e9-4185-90fe-dfc2fb3455f7",
+							"b83014dd-59a2-4b8c-8b1d-f3403eb7b52a"
+						],
+						"receivedPrice": {
+							"base": "7.052",
+							"bonusPercentage": "0.06",
+							"total": "7.41512"
+						},
+						"price": {
+							"base": "7.052",
+							"bonusPercentage": "0.06",
+							"total": "7.41512"
+						},
+						"stake": "2.8",
+						"potentialPayout": {
+							"base": "19.75",
+							"bonus": "1.01",
+							"total": "20.76"
+						},
+						"inPlay": true
+					},
+					{
+						"id": "2UA9XAC6CUE",
+						"outcomeIds": [
+							"882534a0-ad69-4757-9a4b-fe5cb6965197",
+							"63f726cc-b0e9-4185-90fe-dfc2fb3455f7",
+							"b83014dd-59a2-4b8c-8b1d-f3403eb7b52a"
+						],
+						"receivedPrice": {
+							"base": "11.239125",
+							"bonusPercentage": "0.06",
+							"total": "11.8534725"
+						},
+						"price": {
+							"base": "11.239125",
+							"bonusPercentage": "0.06",
+							"total": "11.8534725"
+						},
+						"stake": "2.8",
+						"potentialPayout": {
+							"base": "31.47",
+							"bonus": "1.72",
+							"total": "33.19"
+						},
+						"inPlay": true
+					}
+				]
+			}
+		},
+		{
+			"status": 400,
+			"response": {
+				"ticketId": "T99W7UBZ9DW",
+				"type": "SINGLE",
+				"accountId": "1MUY3TDP97C",
+				"currency": "COP",
+				"acceptPriceChanges": true,
+				"selections": [
+					[
+						{
+							"outcomeId": "d8f7141b-14f3-4348-a81d-faef1c65971e",
+							"fixtureId": "78584745-2e84-4870-8dd7-d9ab5afb1403",
+							"status": "ACTIVE",
+							"receivedPrice": "4.1",
+							"price": "4.1",
+							"probability": "0.223291",
+							"inPlay": false
+						}
+					]
+				],
+				"bets": [
+					{
+						"id": "GO9E98GU1VN",
+						"outcomeIds": ["d8f7141b-14f3-4348-a81d-faef1c65971e"],
+						"receivedPrice": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						},
+						"inPlay": false
+					}
+				],
+				"betGroups": [
+					{
+						"numSelections": 1,
+						"numBets": 1,
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						}
+					}
+				],
+				"status": "REJECTED",
+				"deadline": "2025-04-15T13:36:03.822122357Z",
+
+				"receivedAt": "2025-04-15T13:35:43.827939793Z",
+				"validatedAt": "0001-01-01T00:00:00Z",
+				"acceptedAt": "0001-01-01T00:00:00Z"
+			}
+		},
+		{
+			"status": 400,
+			"response": {
+				"ticketId": "T99W7UBZ9DW",
+				"type": "SINGLE",
+				"accountId": "1MUY3TDP97C",
+				"currency": "COP",
+				"acceptPriceChanges": true,
+				"selections": [
+					[
+						{
+							"outcomeId": "d8f7141b-14f3-4348-a81d-faef1c65971e",
+							"fixtureId": "78584745-2e84-4870-8dd7-d9ab5afb1403",
+							"status": "ACTIVE",
+							"receivedPrice": "4.1",
+							"price": "4.1",
+							"probability": "0.223291",
+							"inPlay": false
+						}
+					]
+				],
+				"bets": [
+					{
+						"id": "GO9E98GU1VN",
+						"outcomeIds": ["d8f7141b-14f3-4348-a81d-faef1c65971e"],
+						"receivedPrice": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						},
+						"inPlay": false
+					}
+				],
+				"betGroups": [
+					{
+						"numSelections": 1,
+						"numBets": 1,
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						}
+					}
+				],
+				"status": "REJECTED",
+				"deadline": "2025-04-15T13:36:03.822122357Z",
+				"receivedAt": "2025-04-15T13:35:43.827939793Z",
+				"validatedAt": "0001-01-01T00:00:00Z",
+				"acceptedAt": "0001-01-01T00:00:00Z",
+				"rejectReasons": {
+					"code": "STAKE_IS_TOO_LOW",
+					"message": "The stake of some bets are too low",
+					"details": [
+						{
+							"alternativeStake": "0.5",
+							"betId": "VDWED6HWDGN",
+							"limit": "0.5",
+							"outcomeIds": ["763f1acc-b2f2-4549-9504-cf4dc81a7511"],
+							"stake": "0.01"
+						}
+					]
+				}
+			}
+		},
+		{
+			"status": 400,
+			"response": {
+				"ticketId": "T99W7UBZ9DW",
+				"type": "SINGLE",
+				"accountId": "1MUY3TDP97C",
+				"currency": "COP",
+				"acceptPriceChanges": true,
+				"selections": [
+					[
+						{
+							"outcomeId": "d8f7141b-14f3-4348-a81d-faef1c65971e",
+							"fixtureId": "78584745-2e84-4870-8dd7-d9ab5afb1403",
+							"status": "ACTIVE",
+							"receivedPrice": "4.1",
+							"price": "4.1",
+							"probability": "0.223291",
+							"inPlay": false
+						}
+					]
+				],
+				"bets": [
+					{
+						"id": "GO9E98GU1VN",
+						"outcomeIds": ["d8f7141b-14f3-4348-a81d-faef1c65971e"],
+						"receivedPrice": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						},
+						"inPlay": false
+					}
+				],
+				"betGroups": [
+					{
+						"numSelections": 1,
+						"numBets": 1,
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						}
+					}
+				],
+				"status": "REJECTED",
+				"deadline": "2025-04-15T13:36:03.822122357Z",
+				"receivedAt": "2025-04-15T13:35:43.827939793Z",
+				"validatedAt": "0001-01-01T00:00:00Z",
+				"acceptedAt": "0001-01-01T00:00:00Z",
+				"rejectReasons": [
+					{
+						"message": "MTS rejected the assessment",
+						"code": "REJECTED_BY_MTS",
+						"details": {
+							"message": "EOF",
+							"code": "PROVIDER_IS_DOWN"
+						}
+					}
+				]
+			}
+		},
+		{
+			"status": 400,
+			"response": {
+				"ticketId": "T99W7UBZ9DW",
+				"type": "SINGLE",
+				"accountId": "1MUY3TDP97C",
+				"currency": "COP",
+				"acceptPriceChanges": true,
+				"selections": [
+					[
+						{
+							"outcomeId": "d8f7141b-14f3-4348-a81d-faef1c65971e",
+							"fixtureId": "78584745-2e84-4870-8dd7-d9ab5afb1403",
+							"status": "ACTIVE",
+							"receivedPrice": "4.1",
+							"price": "4.1",
+							"probability": "0.223291",
+							"inPlay": false
+						}
+					]
+				],
+				"bets": [
+					{
+						"id": "GO9E98GU1VN",
+						"outcomeIds": ["d8f7141b-14f3-4348-a81d-faef1c65971e"],
+						"receivedPrice": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						},
+						"inPlay": false
+					}
+				],
+				"betGroups": [
+					{
+						"numSelections": 1,
+						"numBets": 1,
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						}
+					}
+				],
+				"status": "REJECTED",
+				"deadline": "2025-04-15T13:36:03.822122357Z",
+				"receivedAt": "2025-04-15T13:35:43.827939793Z",
+				"validatedAt": "0001-01-01T00:00:00Z",
+				"acceptedAt": "0001-01-01T00:00:00Z",
+				"rejectReasons": [
+					{
+						"code": "INSUFFICIENT_FUNDS",
+						"message": "insufficient funds to execute the transaction"
+					}
+				]
+			}
+		},
+		{
+			"status": 400,
+			"response": {
+				"ticketId": "T99W7UBZ9DW",
+				"type": "SINGLE",
+				"accountId": "1MUY3TDP97C",
+				"currency": "COP",
+				"acceptPriceChanges": true,
+				"selections": [
+					[
+						{
+							"outcomeId": "d8f7141b-14f3-4348-a81d-faef1c65971e",
+							"fixtureId": "78584745-2e84-4870-8dd7-d9ab5afb1403",
+							"status": "ACTIVE",
+							"receivedPrice": "4.1",
+							"price": "4.1",
+							"probability": "0.223291",
+							"inPlay": false
+						}
+					]
+				],
+				"bets": [
+					{
+						"id": "GO9E98GU1VN",
+						"outcomeIds": ["d8f7141b-14f3-4348-a81d-faef1c65971e"],
+						"receivedPrice": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						},
+						"inPlay": false
+					}
+				],
+				"betGroups": [
+					{
+						"numSelections": 1,
+						"numBets": 1,
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						}
+					}
+				],
+				"status": "REJECTED",
+				"deadline": "2025-04-15T13:36:03.822122357Z",
+				"receivedAt": "2025-04-15T13:35:43.827939793Z",
+				"validatedAt": "0001-01-01T00:00:00Z",
+				"acceptedAt": "0001-01-01T00:00:00Z",
+				"rejectReasons": [
+					{
+						"code": "TOO_HIGH_PAYOUT_ROUNDING_IMPLIED_PROBABILITY--NEW",
+						"message": "The implied probability of the rounded payout is too high. Implied probability: 0.8130081300813008, limit: 0.0433"
+					}
+				]
+			}
+		},
+		{
+			"status": 400,
+			"response": {
+				"ticketId": "T99W7UBZ9DW",
+				"type": "SINGLE",
+				"accountId": "1MUY3TDP97C",
+				"currency": "COP",
+				"acceptPriceChanges": true,
+				"selections": [
+					[
+						{
+							"outcomeId": "d8f7141b-14f3-4348-a81d-faef1c65971e",
+							"fixtureId": "78584745-2e84-4870-8dd7-d9ab5afb1403",
+							"status": "ACTIVE",
+							"receivedPrice": "4.1",
+							"price": "4.1",
+							"probability": "0.223291",
+							"inPlay": false
+						}
+					]
+				],
+				"bets": [
+					{
+						"id": "GO9E98GU1VN",
+						"outcomeIds": ["d8f7141b-14f3-4348-a81d-faef1c65971e"],
+						"receivedPrice": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						},
+						"inPlay": false
+					}
+				],
+				"betGroups": [
+					{
+						"numSelections": 1,
+						"numBets": 1,
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						}
+					}
+				],
+				"status": "REJECTED",
+				"deadline": "2025-04-15T13:36:03.822122357Z",
+				"receivedAt": "2025-04-15T13:35:43.827939793Z",
+				"validatedAt": "0001-01-01T00:00:00Z",
+				"acceptedAt": "0001-01-01T00:00:00Z",
+				"rejectReasons": [
+					{
+						"code": "UNKNOWN",
+						"message": "ask someone else"
+					}
+				]
+			}
+		},
+		{
+			"status": 400,
+			"response": {
+				"ticketId": "T99W7UBZ9DW",
+				"type": "SINGLE",
+				"accountId": "1MUY3TDP97C",
+				"currency": "COP",
+				"acceptPriceChanges": true,
+				"selections": [
+					[
+						{
+							"outcomeId": "d8f7141b-14f3-4348-a81d-faef1c65971e",
+							"fixtureId": "78584745-2e84-4870-8dd7-d9ab5afb1403",
+							"status": "ACTIVE",
+							"receivedPrice": "4.1",
+							"price": "4.1",
+							"probability": "0.223291",
+							"inPlay": false
+						}
+					]
+				],
+				"bets": [
+					{
+						"id": "GO9E98GU1VN",
+						"outcomeIds": ["d8f7141b-14f3-4348-a81d-faef1c65971e"],
+						"receivedPrice": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						},
+						"inPlay": false
+					}
+				],
+				"betGroups": [
+					{
+						"numSelections": 1,
+						"numBets": 1,
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						}
+					}
+				],
+				"status": "REJECTED",
+				"deadline": "2025-04-15T13:36:03.822122357Z",
+				"receivedAt": "2025-04-15T13:35:43.827939793Z",
+				"validatedAt": "0001-01-01T00:00:00Z",
+				"acceptedAt": "0001-01-01T00:00:00Z",
+				"rejectReasons": [
+					{
+						"code": "INTERNAL_ERROR",
+						"message": "Selections do not match"
+					}
+				]
+			}
+		},
+		{
+			"status": 400,
+			"response": {
+				"ticketId": "T99W7UBZ9DW",
+				"type": "SINGLE",
+				"accountId": "1MUY3TDP97C",
+				"currency": "COP",
+				"acceptPriceChanges": true,
+				"selections": [
+					[
+						{
+							"outcomeId": "d8f7141b-14f3-4348-a81d-faef1c65971e",
+							"fixtureId": "78584745-2e84-4870-8dd7-d9ab5afb1403",
+							"status": "ACTIVE",
+							"receivedPrice": "4.1",
+							"price": "4.1",
+							"probability": "0.223291",
+							"inPlay": false
+						}
+					]
+				],
+				"bets": [
+					{
+						"id": "GO9E98GU1VN",
+						"outcomeIds": ["d8f7141b-14f3-4348-a81d-faef1c65971e"],
+						"receivedPrice": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						},
+						"inPlay": false
+					}
+				],
+				"betGroups": [
+					{
+						"numSelections": 1,
+						"numBets": 1,
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						}
+					}
+				],
+				"status": "REJECTED",
+				"deadline": "2025-04-15T13:36:03.822122357Z",
+				"receivedAt": "2025-04-15T13:35:43.827939793Z",
+				"validatedAt": "0001-01-01T00:00:00Z",
+				"acceptedAt": "0001-01-01T00:00:00Z",
+				"rejectReasons": [
+					{
+						"code": "MAX_PAYOUT_LIMIT_EXCEEDED",
+						"message": "The potential payout exceeds the allowed maximum",
+						"details": {
+							"alternativeStake": "40.00",
+							"amount": "500.00",
+							"limit": "450.00"
+						}
+					}
+				]
+			}
+		},
+		{
+			"status": 400,
+			"response": {
+				"ticketId": "T99W7UBZ9DW",
+				"type": "SINGLE",
+				"accountId": "1MUY3TDP97C",
+				"currency": "COP",
+				"acceptPriceChanges": true,
+				"selections": [
+					[
+						{
+							"outcomeId": "d8f7141b-14f3-4348-a81d-faef1c65971e",
+							"fixtureId": "78584745-2e84-4870-8dd7-d9ab5afb1403",
+							"status": "ACTIVE",
+							"receivedPrice": "4.1",
+							"price": "4.1",
+							"probability": "0.223291",
+							"inPlay": false
+						}
+					]
+				],
+				"bets": [
+					{
+						"id": "GO9E98GU1VN",
+						"outcomeIds": ["d8f7141b-14f3-4348-a81d-faef1c65971e"],
+						"receivedPrice": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						},
+						"inPlay": false
+					}
+				],
+				"betGroups": [
+					{
+						"numSelections": 1,
+						"numBets": 1,
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						}
+					}
+				],
+				"status": "REJECTED",
+				"deadline": "2025-04-15T13:36:03.822122357Z",
+				"receivedAt": "2025-04-15T13:35:43.827939793Z",
+				"validatedAt": "0001-01-01T00:00:00Z",
+				"acceptedAt": "0001-01-01T00:00:00Z",
+				"rejectReasons": [
+					{
+						"code": "MAX_STAKE_LIMIT_EXCEEDED",
+						"message": "The stake exceeds the maximum allowed limit",
+						"details": { "alternativeStake": "80.00" }
+					}
+				]
+			}
+		},
+		{
+			"status": 400,
+			"response": {
+				"ticketId": "T99W7UBZ9DW",
+				"type": "SINGLE",
+				"accountId": "1MUY3TDP97C",
+				"currency": "COP",
+				"acceptPriceChanges": true,
+				"selections": [
+					[
+						{
+							"outcomeId": "d8f7141b-14f3-4348-a81d-faef1c65971e",
+							"fixtureId": "78584745-2e84-4870-8dd7-d9ab5afb1403",
+							"status": "ACTIVE",
+							"receivedPrice": "4.1",
+							"price": "4.1",
+							"probability": "0.223291",
+							"inPlay": false
+						}
+					]
+				],
+				"bets": [
+					{
+						"id": "GO9E98GU1VN",
+						"outcomeIds": ["d8f7141b-14f3-4348-a81d-faef1c65971e"],
+						"receivedPrice": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						},
+						"inPlay": false
+					}
+				],
+				"betGroups": [
+					{
+						"numSelections": 1,
+						"numBets": 1,
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						}
+					}
+				],
+				"status": "REJECTED",
+				"deadline": "2025-04-15T13:36:03.822122357Z",
+				"receivedAt": "2025-04-15T13:35:43.827939793Z",
+				"validatedAt": "0001-01-01T00:00:00Z",
+				"acceptedAt": "0001-01-01T00:00:00Z",
+				"rejectReasons": [
+					{
+						"code": "INVALID_SELECTIONS",
+						"message": "Some of the selections are not valid",
+						"details": [
+							{
+								"code": "OUTCOMES_NOT_TRADABLE",
+								"outcomes": [
+									{
+										"outcomeId": "d3fa2cc5-7b8f-496b-8e76-fc12167fe423",
+										"status": "SUSPENDED"
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"status": 400,
+			"response": {
+				"ticketId": "T99W7UBZ9DW",
+				"type": "SINGLE",
+				"accountId": "1MUY3TDP97C",
+				"currency": "COP",
+				"acceptPriceChanges": true,
+				"selections": [
+					[
+						{
+							"outcomeId": "d8f7141b-14f3-4348-a81d-faef1c65971e",
+							"fixtureId": "78584745-2e84-4870-8dd7-d9ab5afb1403",
+							"status": "ACTIVE",
+							"receivedPrice": "4.1",
+							"price": "4.1",
+							"probability": "0.223291",
+							"inPlay": false
+						}
+					]
+				],
+				"bets": [
+					{
+						"id": "GO9E98GU1VN",
+						"outcomeIds": ["d8f7141b-14f3-4348-a81d-faef1c65971e"],
+						"receivedPrice": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						},
+						"inPlay": false
+					}
+				],
+				"betGroups": [
+					{
+						"numSelections": 1,
+						"numBets": 1,
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						}
+					}
+				],
+				"status": "REJECTED",
+				"deadline": "2025-04-15T13:36:03.822122357Z",
+				"receivedAt": "2025-04-15T13:35:43.827939793Z",
+				"validatedAt": "0001-01-01T00:00:00Z",
+				"acceptedAt": "0001-01-01T00:00:00Z",
+				"rejectReasons": [
+					{
+						"code": "INVALID_SELECTIONS",
+						"message": "Some of the selections are not valid",
+						"details": [
+							{
+								"code": "OUTCOMES_NOT_TRADABLE",
+								"outcomes": [
+									{
+										"outcomeId": "d3fa2cc5-7b8f-496b-8e76-fc12167fe423",
+										"status": "SUSPENDED"
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"status": 400,
+			"response": {
+				"ticketId": "T99W7UBZ9DW",
+				"type": "SINGLE",
+				"accountId": "1MUY3TDP97C",
+				"currency": "COP",
+				"acceptPriceChanges": true,
+				"selections": [
+					[
+						{
+							"outcomeId": "d8f7141b-14f3-4348-a81d-faef1c65971e",
+							"fixtureId": "78584745-2e84-4870-8dd7-d9ab5afb1403",
+							"status": "ACTIVE",
+							"receivedPrice": "4.1",
+							"price": "4.1",
+							"probability": "0.223291",
+							"inPlay": false
+						}
+					]
+				],
+				"bets": [
+					{
+						"id": "GO9E98GU1VN",
+						"outcomeIds": ["d8f7141b-14f3-4348-a81d-faef1c65971e"],
+						"receivedPrice": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						},
+						"inPlay": false
+					}
+				],
+				"betGroups": [
+					{
+						"numSelections": 1,
+						"numBets": 1,
+						"price": {
+							"base": "4.1",
+							"bonusPercentage": "0",
+							"total": "4.1"
+						},
+						"stake": "2000",
+						"potentialPayout": {
+							"base": "8200",
+							"bonus": "0",
+							"total": "8200"
+						}
+					}
+				],
+				"status": "REJECTED",
+				"deadline": "2025-04-15T13:36:03.822122357Z",
+				"receivedAt": "2025-04-15T13:35:43.827939793Z",
+				"validatedAt": "0001-01-01T00:00:00Z",
+				"acceptedAt": "0001-01-01T00:00:00Z",
+				"rejectReasons": [
+					{
+						"code": "INVALID_SELECTIONS",
+						"message": "Some of the selections are not valid",
+						"details": [
+							{
+								"code": "OUTCOMES_NOT_TRADABLE",
+								"outcomes": [
+									{
+										"outcomeId": "d3fa2cc5-7b8f-496b-8e76-fc12167fe423",
+										"status": "SUSPENDED"
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

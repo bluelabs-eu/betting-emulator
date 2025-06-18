@@ -1239,6 +1239,16 @@
 										"status": "SUSPENDED"
 									}
 								]
+							},
+							{
+								"code": "SELECTIONS_PRICE_HAS_CHANGED",
+								"selections": [
+									{
+										"outcomeId": "5cf5b435-f66c-4038-a0ea-a39e66dd9048",
+										"receivedPrice": "2.15",
+										"expectedPrice": "1.95"
+									}
+								]
 							}
 						]
 					}

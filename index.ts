@@ -86,8 +86,6 @@ const server = http.createServer((req, res) => {
 		return;
 	}
 
-	// TODO: act as a proxy to localhost:8018
-
 	const proxyOpts = {
 		hostname: "localhost",
 		port: 8018,

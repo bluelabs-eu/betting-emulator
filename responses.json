@@ -5,6 +5,12 @@
 			"response": {
 				"ticketId": "5c24dd82-1989-4d60-9e88-dd2aa21a3b33"
 			}
+		},
+		{
+			"status": 400
+		},
+		{
+			"status": 500
 		}
 	],
 	"GET": [
